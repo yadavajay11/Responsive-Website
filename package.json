@@ -1,0 +1,22 @@
+{
+  "name": "responsive-website",
+  "version": "1.0.0",
+  "description": "It's an example of responsive website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadavajay11/Responsive-Website.git"
+  },
+  "author": "Ajay Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadavajay11/Responsive-Website/issues"
+  },
+  "homepage": "https://github.com/yadavajay11/Responsive-Website#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

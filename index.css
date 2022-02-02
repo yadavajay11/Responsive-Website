@@ -1,0 +1,33 @@
+.jumbotron{
+	background-color: #9575CD;
+	padding: 30px 10px 30px 10px;
+	margin : 0 auto;
+	color: floralwhite;
+}
+.footer{
+	background-color: #D1C4E9;
+	padding : 30px 0px 30px 0px;
+}
+.navbar{
+	background-color: #5133A5;
+}
+.row-content{
+	margin-top: 8%;
+	margin-bottom: 5%;
+}
+#reserve{
+	justify-content: center;
+}
+.carousel{
+	background: #513DA5;
+}
+.carousel-item{
+	height: 300px;
+}
+.carousel img{
+	position: absolute;
+	height: 200px;
+	left: 0;
+	top: 0;
+	min-height: 300px;
+}
